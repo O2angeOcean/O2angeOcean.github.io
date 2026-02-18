@@ -835,8 +835,8 @@ i.iconfont {
 }
 :root {
   --color-mode: "light";
-  --body-bg-color: #394c5c;
-  --board-bg-color: #041a38;
+  --body-bg-color: #041a38;
+  --board-bg-color: #394c5c;
   --text-color: #d8e7ee;
   --sec-text-color: #d8e7ee;
   --post-text-color: #d8e7ee;
@@ -845,7 +845,7 @@ i.iconfont {
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #f8f9fa;
   --line-color: #eaecef;
-  --navbar-bg-color: #394c5c;
+  --navbar-bg-color: #041a38;
   --navbar-text-color: #d8e7ee;
   --subtitle-color: #d8e7ee;
   --scrollbar-color: #c4c6c9;
